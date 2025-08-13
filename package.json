@@ -1,0 +1,12 @@
+{
+  "name": "kanban-tests",
+  "version": "1.0.0",
+  "description": "Testes end-to-end para o Kanban usando Cypress",
+  "scripts": {
+    "test": "cypress run",
+    "cy:open": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^13.17.0"
+  }
+}
